@@ -1,0 +1,68 @@
+body {
+    color: rgb(192, 30, 138);
+   background: black;
+margin: opx;
+}
+header{
+border-bottom;:solid 2px rgb(172, 228, 42)
+padding:20px;
+font: size 32px;
+color:rgb(42;122;228)
+}
+section {
+    background: rgb(184, 156, 213);
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
+}
+div {
+    margin-right: 20px;
+}
+<section>
+    <div class="chamada-texto">
+        <h1>ATRAVÉS DO ARANHAVERSO SUPERA O PRIMEIRO FILME?</h1>
+        <p>#homem-aranha</p>
+    </div>
+
+    <!-- código omitido -->
+</section>
+.chamada-texto {
+    margin-right: 20px;
+}
+/* código omitido */
+
+section 
+    background: rgb(184,156,213);
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
+
+
+.chamada-texto 
+    margin-right: 5%;
+    body {
+        color: white;
+        background: black;
+        margin: 0px;
+    }
+    
+    header {
+        border-bottom: solid 2px rgb(42, 122, 228);
+        padding: 20px;
+        font-size: 32px;
+        color: rgb(42, 122, 228);
+    }
+    
+    section {
+        background: rgb(184,156,213);
+        padding-bottom: 80px;
+        padding-top: 80px;
+        display: flex;
+        justify-content: center;
+    }
+    
+    .chamada-texto {
+        margin-right: 5%;
+    }
